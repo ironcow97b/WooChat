@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_friend"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:title="친구"
+        android:icon="@drawable/ic_friend"/>
+
+    <item
+        android:id="@+id/menu_chat"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:title="대화"
+        android:icon="@drawable/ic_chat"/>
+
+    <item
+        android:id="@+id/menu_settings"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:title="설정"
+        android:icon="@drawable/ic_settings"/>
+</menu>

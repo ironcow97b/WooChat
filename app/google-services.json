@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714754208186",
+    "project_id": "woochat-5e57c",
+    "storage_bucket": "woochat-5e57c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714754208186:android:fc049eb38609bd3c076d83",
+        "android_client_info": {
+          "package_name": "com.kcw.woochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714754208186-rqm5fk00ake60ctae8qhvtbd65p20vhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDli-EGrlvv09u6vQEwCH1nZ5i7eBnqeQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714754208186-rqm5fk00ake60ctae8qhvtbd65p20vhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
