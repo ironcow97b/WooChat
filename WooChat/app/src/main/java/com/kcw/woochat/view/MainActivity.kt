@@ -255,6 +255,7 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "사진 등록을 완료했습니다!", Toast.LENGTH_SHORT).show()
 
                 settingsFragment.view?.findViewById<ImageView>(R.id.iv_photo)?.setImageURI(photoUri)
+                myPhoto = null
             } else {
                 Toast.makeText(this, "사진 등록을 실패했습니다!", Toast.LENGTH_SHORT).show()
             }
